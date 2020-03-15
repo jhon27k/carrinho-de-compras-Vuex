@@ -1,6 +1,6 @@
 <template>
 	<div id="app">
-		<h1>Exercícios Vuex</h1>
+		<h1>Carrinho com Vuex</h1>
 		<div class="linha">
 			<Parametros />
 			<Loja />
